@@ -1,6 +1,10 @@
 # UICollectionViewSlideLeft
 A UITableView Swipe to Delete implementation in UICollectionView.
 
+## Demo ##
+
+https://goo.gl/ZwVKUV
+
 ## Usage ##
 
  1. In your UICollectionViewCell, you should have two views, your main view and a delete view.
